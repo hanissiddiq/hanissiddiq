@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hanissiddiq
 - 👀 I’m interested programmer, videography & photogarphy
-- 🌱 I’m currently learning Laravel, Html, Css, Javascript
+- 🌱 I’m currently learning Laravel, Codeigniter, Html, Css, Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
